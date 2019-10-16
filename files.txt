@@ -216,3 +216,7 @@ healthz
 .gitmodules
 .hg
 .svn
+graphql
+graphiql
+graphql.php
+console
